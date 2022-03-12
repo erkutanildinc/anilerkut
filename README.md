@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erkut Anıl</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🌱 I’m currently learning **JavaScript and Kotlin**
+- 🌱 I’m currently learning **Kotlin and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
