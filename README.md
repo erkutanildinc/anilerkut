@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erkut Anıl Dinç</h1>
-<h3 align="center">A passionate mobile developer from Turkey</h3>
+<h3 align="center">A passionate mobile developer from Antalya,Turkey</h3>
 
 - 📫 How to reach me **erkutanil.dinc@gmail.com**
 
