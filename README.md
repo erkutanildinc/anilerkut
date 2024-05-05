@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erkut Anıl Dinç</h1>
-<h3 align="center">Kotlin Mobile Developer - Computer Engineer</h3>
+<h3 align="center">Sofware Engineer</h3>
 
 - 📫 How to reach me **erkutanil.dinc@gmail.com**
 
